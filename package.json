@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "g": "^2.0.1",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.18",
+    "uuid": "^8.3.2"
+  },
+  "name": "todoapp",
+  "description": "Simple Todo App with Basic CRUD Operations\r App was built using Node Js, Express, MongoDB and Bootstrap",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kriskazy/TodoApp.git"
+  },
+  "author": "Kriskazy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kriskazy/TodoApp/issues"
+  },
+  "homepage": "https://github.com/Kriskazy/TodoApp#readme"
+}
